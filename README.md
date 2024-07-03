@@ -1,17 +1,18 @@
+
 [![MasterHead](https://user-images.githubusercontent.com/99672298/186088252-ef41cefc-cda7-49e8-960d-efbd59d3696c.jpg)]
 <h1 align="center">Hi 👋, I'm Prashant Hangal</h1>
-<h3 align="center">A passionate Data Science Enthusiast</h3>
+<h3 align="center">A passionate Data Analyst Enthusiast</h3>
 
 
-- 🔭 I’m currently working as [Data Science Professional](@ CTE, Bengaluru)
+- 🔭 I’m currently working as [Data Analyst](@ CTE, Bengaluru)
 
 - 🌱 I’m currently learning **AI and Deep Learning**
 
-- 👯 I’m looking to collaborate on **all topics related to Data Science, Machine Learning and Artificial Intellegence**
+- 👯 I’m looking to collaborate on **all topics related to Data Analysis, Data Science, Machine Learning and Artificial Intellegence**
 
 - 🌱 I love learning as a **process and mostly about new things...**
 
-- 💬 Ask me about **Data Science, Machine Learning and Artificial Intelligence**
+- 💬 Ask me about **Data Analysis, PowerBI, Data Science and Machine Learning**
 
 - 📫 How to reach me **on my email Id prashanthangal94@gmail.com**
 
