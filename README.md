@@ -1,5 +1,8 @@
 
 [![MasterHead](C:\Users\Prashant Hangal\Downloads\linkedin_banner_pic.jpg)]
+<p align="center">
+  <img src="https://github.com/PrashantHangal/PrashantHangal/blob/main/linkedin_banner_pic.jpg?raw=true" alt="LinkedIn Banner" width="100%" />
+</p>
 <h1 align="center">👋 Hi there, I'm Prashant Hangal</h1>
 <h3 align="center">🎯 Data Analyst | Business Intelligence Enthusiast | Lifelong Learner</h3>
 
