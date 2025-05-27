@@ -8,17 +8,19 @@
 
 I'm passionate about transforming raw data into impactful insights that drive smarter, faster business decisions. With a strong foundation in **SQL, Power BI, Tableau** and **Python**, I specialize in uncovering hidden trends and telling stories with data.
 
+
 🚀 **About Me**:
 
-- 💼 Currently working as a Data Analyst at CTE, Bengaluru
 
-- 🤖 Exploring AI, Deep Learning, and Generative AI
+ 💼 Currently working as a Data Analyst at CTE, Bengaluru
 
-- 📊 Skilled in creating interactive dashboards and building predictive models using Power BI, Tableau, Python, and SQL
+ 🤖 Exploring AI, Deep Learning, and Generative AI
 
-- 🤝 Always open to collaborating on Data Analytics, Dashboarding, or ML Projects
+ 📊 Skilled in creating interactive dashboards and building predictive models using Power BI, Tableau, Python, and SQL
 
-- 💡 I believe in continuous learning and embracing new technologies to solve real-world problems
+ 🤝 Always open to collaborating on Data Analytics, Dashboarding, or ML Projects
+
+ 💡 I believe in continuous learning and embracing new technologies to solve real-world problems
 
 
 
