@@ -1,5 +1,4 @@
 
-[![MasterHead](C:\Users\Prashant Hangal\Downloads\linkedin_banner_pic.jpg)]
 <p align="center">
   <img src="https://github.com/PrashantHangal/PrashantHangal/blob/main/linkedin_banner_pic.jpg?raw=true" alt="LinkedIn Banner" width="100%" />
 </p>
@@ -21,7 +20,7 @@ I'm passionate about transforming raw data into impactful insights that drive sm
 
 - 💡 I believe in continuous learning and embracing new technologies to solve real-world problems
 
-- 📫 How to reach me **on my email Id prashanthangal94@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
