@@ -1,5 +1,5 @@
 
-[![MasterHead](https://user-images.githubusercontent.com/99672298/186088252-ef41cefc-cda7-49e8-960d-efbd59d3696c.jpg)]
+[![MasterHead](C:\Users\Prashant Hangal\Downloads\linkedin_banner_pic.jpg)]
 <h1 align="center">Hi 👋, I'm Prashant Hangal</h1>
 <h3 align="center">A passionate Data Analyst Enthusiast</h3>
 
