@@ -1,14 +1,14 @@
 
 [![MasterHead](C:\Users\Prashant Hangal\Downloads\linkedin_banner_pic.jpg)]
 <h1 align="center">Hi 👋, I'm Prashant Hangal</h1>
-<h3 align="center">A passionate Data Analyst Enthusiast</h3>
+<h3 align="center">I’m passionate about transforming raw data into meaningful insights that enable data-driven decisions.</h3>
 
 
 - 🔭 I’m currently working as [Data Analyst](@ CTE, Bengaluru)
 
 - 🌱 I’m currently learning **AI and Deep Learning**
 
-- 👯 I’m looking to collaborate on **all topics related to Data Analysis, Data Science, Machine Learning and Artificial Intellegence**
+- 👯 I’m looking to collaborate on **Data Analysis Project by use of Power BI, SQL, Python skills**
 
 - 🌱 I love learning as a **process and mostly about new things...**
 
