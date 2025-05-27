@@ -1,7 +1,21 @@
 
 [![MasterHead](C:\Users\Prashant Hangal\Downloads\linkedin_banner_pic.jpg)]
-<h1 align="center">Hi 👋, I'm Prashant Hangal</h1>
-<h3 align="center">I’m passionate about transforming raw data into meaningful insights that enable data-driven decisions.</h3>
+<h1 align="center">👋 Hi there, I'm Prashant Hangal</h1>
+<h3 align="center">🎯 Data Analyst | Business Intelligence Enthusiast | Lifelong Learner</h3>
+
+I'm passionate about transforming raw data into impactful insights that drive smarter, faster business decisions. With a strong foundation in SQL, Power BI, and Python, I specialize in uncovering hidden trends and telling stories with data.
+
+🚀 About Me
+💼 Currently working as a Data Analyst at CTE, Bengaluru
+
+🤖 Exploring AI, Deep Learning, and Generative AI
+
+📊 Skilled in creating interactive dashboards and building predictive models using Power BI, Tableau, Python, and SQL
+
+🤝 Always open to collaborating on Data Analytics, Dashboarding, or ML Projects
+
+💡 I believe in continuous learning and embracing new technologies to solve real-world problems
+
 
 
 - 🔭 I’m currently working as [Data Analyst](@ CTE, Bengaluru)
