@@ -3,32 +3,23 @@
 <h1 align="center">👋 Hi there, I'm Prashant Hangal</h1>
 <h3 align="center">🎯 Data Analyst | Business Intelligence Enthusiast | Lifelong Learner</h3>
 
-I'm passionate about transforming raw data into impactful insights that drive smarter, faster business decisions. With a strong foundation in SQL, Power BI, and Python, I specialize in uncovering hidden trends and telling stories with data.
 
-🚀 About Me
-💼 Currently working as a Data Analyst at CTE, Bengaluru
+I'm passionate about transforming raw data into impactful insights that drive smarter, faster business decisions. With a strong foundation in **SQL, Power BI, Tableau** and **Python**, I specialize in uncovering hidden trends and telling stories with data.
 
-🤖 Exploring AI, Deep Learning, and Generative AI
+🚀 **About Me**:
 
-📊 Skilled in creating interactive dashboards and building predictive models using Power BI, Tableau, Python, and SQL
+- 💼 Currently working as a Data Analyst at CTE, Bengaluru
 
-🤝 Always open to collaborating on Data Analytics, Dashboarding, or ML Projects
+- 🤖 Exploring AI, Deep Learning, and Generative AI
 
-💡 I believe in continuous learning and embracing new technologies to solve real-world problems
+- 📊 Skilled in creating interactive dashboards and building predictive models using Power BI, Tableau, Python, and SQL
 
+- 🤝 Always open to collaborating on Data Analytics, Dashboarding, or ML Projects
 
-
-- 🔭 I’m currently working as [Data Analyst](@ CTE, Bengaluru)
-
-- 🌱 I’m currently learning **AI and Deep Learning**
-
-- 👯 I’m looking to collaborate on **Data Analysis Project by use of Power BI, SQL, Python skills**
-
-- 🌱 I love learning as a **process and mostly about new things...**
-
-- 💬 Ask me about **Data Analysis, PowerBI, Data Science and Machine Learning**
+- 💡 I believe in continuous learning and embracing new technologies to solve real-world problems
 
 - 📫 How to reach me **on my email Id prashanthangal94@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
