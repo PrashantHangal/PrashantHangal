@@ -1,6 +1,9 @@
 
 <p align="center">
   <img src="https://github.com/PrashantHangal/PrashantHangal/blob/main/linkedin_banner_pic.jpg?raw=true" alt="LinkedIn Banner" width="100%" />
+  
+  <img src="https://github.com/PrashantHangal/PrashantHangal/blob/main/Data/Analyst/Linkedin/Background(2)_New.png?raw=true" alt="LinkedIn Banner" width="100%" />
+
 </p>
 <h1 align="center">👋 Hi, I'm Prashant Hangal</h1>
 <h3 align="center">🎯 Microsoft Certified Fabric Analytics Engineer (DP-600) & PowerBI (PL-300) | Power BI Developer | Data Analytics Engineer | Azure | MS Fabric</h3>
